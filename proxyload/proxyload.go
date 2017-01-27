@@ -16,7 +16,7 @@ func main() {
 
 	var urls [2]string
 	urls[0] = "http://example.com"
-	urls[1] = "http://amstudio-design.com"
+	urls[1] = "http://design.com"
 
 	loadUrlList(urls)
 
